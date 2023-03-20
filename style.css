@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+.contact-section{
+  font-family: 'Kanit', sans-serif;
+  text-align:center;
+}
+.skill-section{
+  text-align: center;
+}
+.project{
+  text-align: center;
+}
+.date{
+  float: right;
+}
